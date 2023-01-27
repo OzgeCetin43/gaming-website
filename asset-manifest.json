@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/gaming-website/static/css/main.adbc662c.css",
+    "main.css": "/gaming-website/static/css/main.1883c3e7.css",
     "main.js": "/gaming-website/static/js/main.c1b219d6.js",
     "static/media/news-3.jpg": "/gaming-website/static/media/news-3.871c1cc61d0ffba7b98c.jpg",
     "static/media/news-1.jpg": "/gaming-website/static/media/news-1.e1d1065d860b320d0f31.jpg",
@@ -10,11 +10,11 @@
     "static/media/tournament-1.png": "/gaming-website/static/media/tournament-1.61d5ce20e9613d293a1c.png",
     "static/media/tournament-2.png": "/gaming-website/static/media/tournament-2.04ff09b8365143f8de56.png",
     "index.html": "/gaming-website/index.html",
-    "main.adbc662c.css.map": "/gaming-website/static/css/main.adbc662c.css.map",
+    "main.1883c3e7.css.map": "/gaming-website/static/css/main.1883c3e7.css.map",
     "main.c1b219d6.js.map": "/gaming-website/static/js/main.c1b219d6.js.map"
   },
   "entrypoints": [
-    "static/css/main.adbc662c.css",
+    "static/css/main.1883c3e7.css",
     "static/js/main.c1b219d6.js"
   ]
 }
